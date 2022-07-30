@@ -1,0 +1,200 @@
+{
+  "Projects": {
+    "events": [
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2015",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2015",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Vehicle With Ultrasonic Eye",
+          "text": "Bachelor Degree Final Project"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_1.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2015",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2015",
+          "month": "12"
+        },
+        "text": {
+          "headline": "Redesign Electric Motor",
+          "text": "R&D Project"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_2.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2016",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2016",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Smart Plants Case",
+          "text": "R&D Project"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_3.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2018",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Estimation of Energy Consumption Demand with Artificial Intelligence Methods",
+          "text": "Master of Science Thesis"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "9"
+        },
+        "end_date": {
+          "year": "2019",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Crypto Mining Farm",
+          "text": "Startup / Sole trader company project<br>5 rigs | 40+ GPUs"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_8.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2019",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2019",
+          "month": "12"
+        },
+        "text": {
+          "headline": "Building my own AI/ML Workstation",
+          "text": "Personal Pursuit<br>(After crypto farm experience)"
+        }
+      },
+      {
+        "media": {
+          "url": "https://youtu.be/IpmdeVSK0Gw",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2020",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Speach Recognition & Keyword Detection / Fire-Arm Detection",
+          "text": "R&D Startup Project"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/imgs/projects/img_4.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2020",
+          "month": "12"
+        },
+        "text": {
+          "headline": "NLP | Text Generation & Analysis",
+          "text": "R&D Startup Project"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_5.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "3"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "9"
+        },
+        "text": {
+          "headline": "6D Pose Estimation",
+          "text": "Dummy Practice<br>Tensorflow | HPC | TensorFlowOnSpark"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_6.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "6"
+        },
+        "text": {
+          "headline": "IVY",
+          "text": "<a href='https://lets-unify.ai/'>lets-unify.ai</a><br>Contribution | Open Source Project"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/projects/img_7.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "7"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "12"
+        },
+        "text": {
+          "headline": "PY3DATA",
+          "text": "<a href='https://py3data.com/'>py3data.com</a><br>Backend & GUI Development"
+        }
+      }
+    ]
+  }
+}

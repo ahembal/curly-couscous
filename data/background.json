@@ -1,0 +1,465 @@
+{
+  "University & Collage Degree": {
+    "events": [
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=UsKd-te61us&list=PLt-yTwbva-m3LB1_UG3gobTWY7Z0Dehvo&index=13&ab_channel=%D0%9C%D0%B5%D1%80%D1%83%D0%B5%D1%80%D1%82%D0%9C%D0%B5%D1%80%D0%B6%D0%B0%D0%BD",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2010",
+          "month": "9"
+        },
+        "end_date": {
+          "year": "2015",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Fatih <a href='https://www.iuc.edu.tr/en/_'>University</a>",
+          "text": "<p>Electrical & Electronics Engineering / Bachelor Degree</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=F5swN2QJvj4&ab_channel=ISTANBULUNIVERSITY-CERRAHPA%C5%9EAINTERNATIONAL",
+          "caption": "Istanbul University Cerrahpasa"
+        },
+        "start_date": {
+          "year": "2016",
+          "month": "9"
+        },
+        "end_date": {
+          "year": "2018",
+          "month": "12"
+        },
+        "text": {
+          "headline": "Istanbul University",
+          "text": "Electrical & Electronics Engineering / Master Degree"
+        }
+      },
+      {
+        "media": {
+          "url": "https://vimeo.com/479782457",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2019",
+          "month": "9"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "1"
+        },
+        "text": {
+          "headline": "Istanbul University Cerrahpasa",
+          "text": "Computer Science / Doctoral Student"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=r0_XlvfXEas&ab_channel=H%C3%B6gskolaniHalmstad",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Halmstad University",
+          "text": "Computer Science / Doctoral Student / Visiting Researcher"
+        }
+      }
+    ]
+  },
+  "Experiences": {
+    "events": [
+      {
+        "media": {
+          "url": "https://youtu.be/7smk0S_Wir8",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2016",
+          "month": "10"
+        },
+        "end_date": {
+          "year": "2016",
+          "month": "12"
+        },
+        "text": {
+          "headline": "<a href='https://www.goldaykaucuk.com.tr/en?gdprAccept'>Golday Kaucuk</a>",
+          "text": "Electric & Electronics Engineer<br>PLC programming, Process Control"
+
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=wrTHgv9A_WA&ab_channel=Corvisio",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2019",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2019",
+          "month": "11"
+        },
+        "text": {
+          "headline": "<a href='https://corvisio.com/'>Corvisio</a> &<br>Albert Solino Consulting",
+          "text": "Software Development Specialist<br>for CRM & OKR Software<br>Skills:RoR, JS, HTML, SQL"
+
+        }
+      },
+      {
+        "media": {
+          "url": "https://rnv.ai/wp-content/uploads/2022/05/Rnv-Eng.webm",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2021",
+          "month": "10"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "6"
+        },
+        "text": {
+          "headline": "<a href='https://rnv.ai/'>Res, Non Verba<br>Data Analytics</a>",
+          "text": "Python Developer | DevOps Eng | Data Eng<br>for Stock Allocation & DB development/migration<br>Skills:Python, SQL, ML, Cloud, DevOps"
+
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=bnI3ZMMc5DM&t=4s&ab_channel=AkademiskaHus",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2022",
+          "month": "12"
+        },
+        "text": {
+          "headline": "<a href='https://www.kth.se/sci/2.14962/welcome-to-biomedical-and-x-ray-physics-at-kth-albanova-1.38389'>Biomedical and X-Ray Physics<br>AlbaNova / KTH</a>",
+          "text": "Python Backend & Frontend Dev | DevOps Eng | Data Eng<br>for Storing/Distributing/Analysing BigData<br>Skills:Python, SQL, ML, Cloud, DevOps"
+
+        }
+      }
+
+    ]
+  },
+  "Internships": {
+    "events": [
+      {
+        "media": {
+          "url": "/static/media/imgs/img_6.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2014",
+          "month": "6"
+        },
+        "end_date": {
+          "year": "2014",
+          "month": "7"
+        },
+        "text": {
+          "headline": "ISTANBUL NATURAL GAS COMBINED CYCLE B POWER PLANT",
+          "text": "<a href='https://www.euas.gov.tr/santraller/istanbul-dogalgaz-kombine-cevrim-b-santrali'>EUAS</a> Production Control Engineer / Internship"
+
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/imgs/img_4.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2014",
+          "month": "7"
+        },
+        "end_date": {
+          "year": "2014",
+          "month": "9"
+        },
+        "text": {
+          "headline": "Fatih University<br>IT Department",
+          "text": "Access Control of Door and Security / Internship"
+
+        }
+      }
+
+    ]
+  },
+  "Certificates": {
+    "events": [
+      {
+        "media": {
+          "url": "static/media/certs/Certificates-Elektrikli Araçlar Zirvesi.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2018",
+          "month": "11"
+        },
+        "text": {
+          "headline": "Electric Vehicles Summit",
+          "text": "<a href='http://www.elektrikliaraclarzirvesi.org/english.html#/about'>Electric Vehicles Summit</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/certs/Certificate 3dd3848fd5104fa69a5984c926894d7a.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Fundamentals of Deep Learning",
+          "text": "<p>NVIDIA DEEP LEARNING INSTITUTE</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/certs/Certificates-2021-AWS innovate AI_ML Edition-6631fc3e23861357.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2021",
+          "month": "2"
+        },
+        "text": {
+          "headline": "AWS INNOVATE",
+          "text": "<p> AWS & INTEL | AI/ML EDITION </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/certs/Certificate 1531cc5a0d45424796ace5e2ee5892b3.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Applications of AI for Anomaly Detection",
+          "text": "<p>NVIDIA DEEP LEARNING INSTITUTE</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Artificial Intelligence Winter School - Koc Uni.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "3"
+        },
+        "text": {
+          "headline": "Artificial Intelligence Winter School",
+          "text": "<a href='https://www.ku.edu.tr/en/'>KOC University</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Cambridge Live Experience_page-0001.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "9"
+        },
+        "text": {
+          "headline": "Time management",
+          "text": "<a href='https://www.cambridge.org/'>Cambridge University Press & Assessment</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Coursera 3WEPRKVPU3CJ.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Introduction to Topic Modeling for Business",
+          "text": "<a href='https://www.coursera.org'>Coursera</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Coursera A7BFU98NK9B9.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Analyze Box Office Data with Plotly and Python",
+          "text": "<a href='https://www.coursera.org'>Coursera</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Coursera KMA26NMUFBFZ.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "11"
+        },
+        "text": {
+          "headline": "Basic Artificial Neural Networks in Python",
+          "text": "<a href='https://www.coursera.org'>Coursera</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Coursera M882SR79YJ2Z.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Neural Network Visualizer Web App with Python",
+          "text": "<a href='https://www.coursera.org'>Coursera</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "/static/media/certs/Coursera Y53453CMWZ95.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "11"
+        },
+        "text": {
+          "headline": "Simple Recurrent Neural Network with Keras",
+          "text": "<a href='https://www.coursera.org'>Coursera</a>"
+        }
+      }
+    ]
+  },
+  "Courses": {
+    "events": [
+      {
+        "media": {
+          "url": "https://youtu.be/LA1eOV7NQRI",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2015",
+          "month": "8"
+        },
+        "end_date": {
+          "year": "2016",
+          "month": "8"
+        },
+        "text": {
+          "headline": "Strategy for Startups: From Idea to Impact",
+          "text": "& Project Planning | Proposal Writing Practical Course"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/courses/img.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "4"
+        },
+        "end_date": {
+          "year": "2017",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Istanbul Ayvansaray University&<br>PLATO AKADEMI",
+          "text": "Software Development Specialists Course(800 Hours)"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/courses/ultimate.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "6"
+        },
+        "text": {
+          "headline": "Python Programming Bootcamp",
+          "text": "<a href='https://www.udemy.com/course/ultimate-python-tutorial/'>Udemy - Python Programming Bootcamp</a>"
+        }
+      }
+    ]
+  },
+  "Hobbies": {
+    "events": [
+      {
+        "media": {
+          "url": "https://youtu.be/fXTX1s3sL8k",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2017",
+          "month": "1"
+        },
+        "end_date": {
+          "year": "2017",
+          "month": "12"
+        },
+        "text": {
+          "headline": "<a href='https://www.instagram.com/grandeskkutuphane/'>Grandesk</a><br>Local Co-Working Space Project",
+          "text": "Startup / Sole trader company"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/imgs/Certificate2.jpeg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2019",
+          "month": "1"
+        },
+        "text": {
+          "headline": "Amateur Seaman's Certificate",
+          "text": "<a href='https://www.maritimegoods.com/en/content-details/what-is-the-amateur-seaman-apos;s-certificate-.html?ContentID=850'>About</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "static/media/imgs/1659185402735.jpg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2021",
+          "month": "3"
+        },
+        "text": {
+          "headline": "Radio Amateur Licence",
+          "text": "<a href='https://en.wikipedia.org/wiki/Amateur_radio'>Amateur Radio / Wikipedia</a>"
+        }
+      }
+    ]
+  }
+}
+
