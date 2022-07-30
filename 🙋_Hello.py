@@ -101,6 +101,7 @@ if st.button("Click on me :)"):
     cur_dir = os.getcwd()
     img_path = cur_dir + '/static/imgs/1658862996704.jpg'
     st.image(img_path)
+    st.success("If you find the answer, please let me know :) Good luck!")
 
 #
 # st.markdown(
