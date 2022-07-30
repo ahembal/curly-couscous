@@ -2,13 +2,17 @@ import os
 
 import streamlit as st
 import streamlit.components.v1 as components
+cur_dir = os.getcwd()
 
 # use full page width
 st.set_page_config(
     page_title="Hello",
     page_icon="👋",
 )
+with open(f"{cur_dir}/static/docs/Emre_Balsever_-_Python_Backend_Developer.pdf", "rb") as f:
+    data = f.read()
 
+st.sidebar.download_button("Download CV in PDF format", data=data, file_name="EmreBalsever.pdf")
 with st.sidebar:
     components.html("""<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <html><head></head><body data-new-gr-c-s-loaded="14.1071.0">
@@ -70,7 +74,6 @@ with st.sidebar:
     """, scrolling=True, height=500)
 
 st.write("## What is this page for?")
-
 st.markdown(
     """
     After spending few months with sending CVs to the 
@@ -90,7 +93,6 @@ st.markdown(
     """
 )
 if st.button("Click on me :)"):
-    cur_dir = os.getcwd()
     img_path = cur_dir + '/static/imgs/1658862996704.jpg'
     st.image(img_path)
     st.success("If you find the answer, please let me know :) Good luck!")
