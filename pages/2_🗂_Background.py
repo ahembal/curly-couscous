@@ -1,6 +1,5 @@
 import itertools
 import json
-import streamlit.components.v1 as components
 from streamlit_timeline import timeline
 import streamlit as st
 

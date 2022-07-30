@@ -2,7 +2,7 @@ import os
 
 import streamlit as st
 import streamlit.components.v1 as components
-from static.statics import embed_component
+
 # use full page width
 st.set_page_config(
     page_title="Hello",
