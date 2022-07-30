@@ -7,11 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Random Fun!", page_icon="🎡")
 
 
-
-
-
-
-
+st.success("Coming Soon!")
 st.markdown("# Plotting Demo")
 st.sidebar.header("Plotting Demo")
 st.write(
