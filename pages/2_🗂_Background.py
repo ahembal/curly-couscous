@@ -1,6 +1,6 @@
 import itertools
 import json
-
+import streamlit.components.v1 as components
 from streamlit_timeline import timeline
 import streamlit as st
 
@@ -28,8 +28,6 @@ selected_layers = [
     for layer in ALL_LAYERS
     if st.sidebar.checkbox(layer, False)
 ]
-for layer in selected_layers:
-    st.sidebar.write()
 
 
 def load_data(selected_layers):

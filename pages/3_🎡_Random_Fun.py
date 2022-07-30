@@ -7,9 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Random Fun!", page_icon="🎡")
 
 
-cur_dir = os.getcwd()
-img_path = cur_dir + '/static/imgs/1658862996704.jpg'
-st.image(img_path)
+
 
 
 
