@@ -71,7 +71,7 @@ with st.sidebar:
 
 st.write("# :star: Welcome to Playground 🙋")
 st.write("#### I'm so glad you made it here!")
-st.write("#### I were expecting you :smile: have fun!")
+st.write("#### I was expecting you :smile: have fun!")
 
 st.success("Choose what ever you want from the sidebar!")
 st.write("")
