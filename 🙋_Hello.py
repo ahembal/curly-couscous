@@ -69,15 +69,7 @@ with st.sidebar:
               
     """, scrolling=True, height=500)
 
-st.write("# :star: Welcome to Playground 🙋")
-st.write("#### I'm so glad you made it here!")
-st.write("#### I was expecting you :smile: have fun!")
-
-st.success("Choose what ever you want from the sidebar!")
-st.write("")
-st.write("")
 st.write("## What is this page for?")
-
 
 st.markdown(
     """
@@ -102,6 +94,11 @@ if st.button("Click on me :)"):
     img_path = cur_dir + '/static/imgs/1658862996704.jpg'
     st.image(img_path)
     st.success("If you find the answer, please let me know :) Good luck!")
+    st.write("# :star: Welcome to Playground 🙋")
+    st.write("#### I'm so glad you made it here!")
+    st.write("#### I was expecting you :smile: have fun!")
+
+    st.success("Choose what ever you want from the sidebar!")
 
 #
 # st.markdown(
