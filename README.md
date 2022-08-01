@@ -2,7 +2,7 @@
 
 ### About
 #### This repo designed as an online interactive CV template.
-I think CVs became messy, we need online cv standards. 
+I think CVs became messy, we need online CV standards. 
 
 #### Feel free to fork | extend | copy. If you find useful, spread the word.
 [Here](http://balsever.com/) you can see example of live version of this repo.
