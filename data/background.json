@@ -427,8 +427,8 @@
           "month": "12"
         },
         "text": {
-          "headline": "<a href='https://www.instagram.com/grandeskkutuphane/'>Grandesk</a><br>Local Co-Working Space Project",
-          "text": "Startup / Sole trader company"
+          "headline": "Organizing Events & Building Socializable Projects",
+          "text": "<a href='https://www.instagram.com/grandeskkutuphane/'>Grandesk</a><br>Local Co-Working Space Project<br>Startup / Sole trader company"
         }
       },
       {
@@ -471,6 +471,20 @@
         "text": {
           "headline": "Radio Amateur",
           "text": "<a href='https://en.wikipedia.org/wiki/Amateur_radio'>Amateur Radio / Wikipedia</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://uploads-ssl.webflow.com/5bf2c35311bde2431655178f/5fa473018d16eae234e8a7dd_Velove%20introduces%20Velovers_%20trained%20and%20certified%20e-cargobike%20couriers-p-800.jpeg",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "7"
+        },
+        "text": {
+          "headline": "Part-time Cargo Bike Driver",
+          "text": ":) Best Environmental Workout Activities Ever<br><a href='https://www.velove.se/electric-cargo-bike'>Velove Electric Bikes</a>"
         }
       }
     ]
