@@ -193,7 +193,7 @@
         },
         "text": {
           "headline": "PY3DATA",
-          "text": "<a href='https://py3data.com/'>py3data.com</a><br>Backend & GUI Development"
+          "text": "<a href='https://py3data.com/'>py3data.com</a><br>Backend & GUI Development<br><a href='https://ahembal-py3data-gui-demo--py3data-ee1g8r.streamlitapp.com/'>Demo Page</a>"
         }
       }
     ]
