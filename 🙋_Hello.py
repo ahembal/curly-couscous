@@ -9,7 +9,7 @@ st.set_page_config(
     page_title="Hello",
     page_icon="👋",
 )
-with open(f"{cur_dir}/static/docs/Emre_Balsever_-_Python_Developer.pdf", "rb") as f:
+with open(f"{cur_dir}/static/docs/Emre.Balsever.pdf", "rb") as f:
     data = f.read()
 
 st.sidebar.download_button("Download CV in PDF format", data=data, file_name="EmreBalsever.pdf")
