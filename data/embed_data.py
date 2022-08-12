@@ -36,11 +36,11 @@ embed_linkedin = {
         </h3>
 
           <h4 class="profile-badge__content-profile-headline">
-            Python &amp; Backend Developer / DevOps / Data Engineer / Doctoral Student in Computer Science
+            Python &amp; Backend Developer | DevOps | Data Engineer | Doctoral Student in Computer Science
           </h4>
 
           <h4 class="profile-badge__content-profile-company-school-info">
-            <a href="https://www.linkedin.com/company/kth?trk=public-profile-badge-profile-badge_company-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">KTH Royal Institute of Technology</a> | <a href="https://www.linkedin.com/school/h%C3%B6gskolan-i-halmstad/?trk=public-profile-badge-profile-badge_school-name" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_school-name" data-tracking-will-navigate="true">Halmstad University</a>
+            <p class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">KTH Royal Institute of Technology | Halmstad University </p>
           </h4>
       </div>
       <a class="profile-badge__cta-btn profile-badge__cta-btn--light" href="https://se.linkedin.com/in/ahembal?trk=public-profile-badge-profile-badge-view-profile-cta" target="_blank" data-tracking-control-name="public-profile-badge-profile-badge-view-profile-cta" data-tracking-will-navigate="">
