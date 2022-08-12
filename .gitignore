@@ -50,6 +50,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+/data/embed_data_back.py
 
 # Translations
 *.mo

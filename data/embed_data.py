@@ -3,7 +3,7 @@ embed_linkedin = {
 
     <html><head></head><body data-new-gr-c-s-loaded="14.1071.0">
     <link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/bvct6szbjq1lhkmq97l688bk8">
-    <div class="profile-badge profile-badge--width-280 profile-badge--light" dir="ltr">
+    <div class="profile-badge profile-badge--width-310 profile-badge--light" dir="ltr">
       <div class="profile-badge__header profile-badge__header--light">
         <span class="sr-only">LinkedIn</span>
 
@@ -30,9 +30,9 @@ embed_linkedin = {
       <img class="artdeco-entity-image artdeco-entity-image--circle-4  profile-badge__content-profile-image" src="https://media-exp1.licdn.com/dms/image/C4D03AQEY9IpD3_bKzw/profile-displayphoto-shrink_200_200/0/1658749991492?e=1664409600&amp;v=beta&amp;t=8DHay4Xi7JB8WDSOSLmZByxGSCKobBtdcQYOtpbkqM4" alt="Emre Balsever">
 
         <h3 class="profile-badge__content-profile-name" itemprop="name">
-          <a class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--light" href="https://se.linkedin.com/in/ahembal?trk=public-profile-badge-profile-badge-profile-name" data-tracking-control-name="public-profile-badge-profile-badge-profile-name" data-tracking-will-navigate="">
+          <p class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--light" data-tracking-control-name="public-profile-badge-profile-badge-profile-name" data-tracking-will-navigate="">
             Emre Balsever
-          </a>
+          </p>
         </h3>
 
           <h4 class="profile-badge__content-profile-headline">
@@ -48,7 +48,7 @@ embed_linkedin = {
       </a>
 <!---->    </div>
 
-  </body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
+  </body></html>
 
     """
 }

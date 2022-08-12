@@ -4,12 +4,12 @@ import streamlit as st
 import time
 import numpy as np
 import pandas as pd
-
+cur_dir = os.getcwd()
 st.set_page_config(page_title="Random Fun!", page_icon="🎡", layout="wide")
 
 
 st.success("Coming Soon!")
-selected = st.selectbox("Choose Demo", options=['Plotting Demo', 'Mapping Demo'])
+selected = st.selectbox("Choose Demo", options=['Plotting Demo', 'Mapping Demo', 'Random Questions'])
 if selected == 'Plotting Demo':
     st.markdown("# Plotting Demo")
     st.sidebar.header("Plotting Demo")
@@ -228,3 +228,12 @@ elif selected == 'Mapping Demo':
         .configure_mark(opacity=0.2, color="red"),
         use_container_width=True,
     )
+elif selected == 'Random Questions':
+
+    img_path = cur_dir + '/static/imgs/1658862996704.jpg'
+    st.image(img_path)
+    st.success("If you find the answer, please let me know :) Good luck!")
+    # st.write("# :star: Welcome to Playground 🙋")
+    # st.write("#### I'm so glad you made it here!")
+    # st.write("#### I was expecting you :smile: have fun!")
+
