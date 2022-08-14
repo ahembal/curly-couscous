@@ -9,7 +9,7 @@ st.set_page_config(page_title="Random Fun!", page_icon="🎡", layout="wide")
 
 
 st.success("Coming Soon!")
-selected = st.selectbox("Choose Demo", options=['Plotting Demo', 'Mapping Demo', 'Random Questions'])
+selected = st.selectbox("Choose Demo", options=['Plotting Demo', 'Mapping Demo', 'Random Questions'], index=1)
 if selected == 'Plotting Demo':
     st.markdown("# Plotting Demo")
     st.sidebar.header("Plotting Demo")

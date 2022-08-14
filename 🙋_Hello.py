@@ -14,18 +14,32 @@ with open(f"{cur_dir}/static/docs/Balsever.pdf", "rb") as f:
 
 st.sidebar.download_button("Download CV in PDF format", data=data, file_name="EmreBalsever.pdf")
 # with st.sidebar:
-components.html(embed_linkedin['linkedin'], scrolling=True, height=500)
+components.html(embed_linkedin['linkedin'], scrolling=True, height=277)
 
 st.write("### What is this page for?")
 st.markdown(
     """
-    After spending few months with sending CVs to the 
-    [recruiters](https://www.linkedin.com/business/talent/blog/talent-strategy/what-is-recruitment),
-    I realized it is [almost impossible to explain](https://blog.recright.com/cvs-are-less-relevant-for-recruiters) 
-    my works in [few pages of PDFs](https://thrivemap.io/6-reasons-we-should-stop-asking-for-cvs/) , 
-    because CVs look
-    [messy](https://www.theguardian.com/careers/2015/nov/11/why-you-dont-need-a-cv-to-get-your-next-job). 👾 
-
+    Welcome to interactive CV page.
+    
+    I created this page as a visualization of my works to follow up easily, to find connections between each other, and to make collaborations easier.
+    
+    [Recruiters](https://www.linkedin.com/business/talent/blog/talent-strategy/what-is-recruitment) are very much welcome.
+    I think this page also [makes recruitment process easier](https://www.theguardian.com/careers/2015/nov/11/why-you-dont-need-a-cv-to-get-your-next-job) for recruiters, because it is [almost impossible to explain](https://blog.recright.com/cvs-are-less-relevant-for-recruiters) 
+    my works in [few pages of PDFs](https://thrivemap.io/6-reasons-we-should-stop-asking-for-cvs/).
+    
+    ------------------------------------------------------------------------------------
+    
+    #### Usage
+    Past projects is sorted by date via timeline tool in [Projects](https://www.emre.balsever.com/Projects) page.
+    
+    Degrees, Experiences, Certificates, Courses, and even Hobbies can be found in [Background](https://www.emre.balsever.com/Background) page.
+    
+    Demo version of some of my works can be found in [Random Fun](https://www.emre.balsever.com/Random_Fun) page. 
+    
+    Latest Pdf version of my CV can be downloadable via the button in the sidebar. 
+    
+    You can reach me out via LinkedIn profile badge above.
+    
     """
 )
 
