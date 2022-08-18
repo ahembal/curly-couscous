@@ -40,6 +40,8 @@ st.markdown(
     
     You can reach out to me via LinkedIn profile badge above.
     
+    Best wishes!
+    
     """
 )
 
