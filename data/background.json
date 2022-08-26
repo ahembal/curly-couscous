@@ -354,6 +354,20 @@
           "headline": "Simple Recurrent Neural Network with Keras",
           "text": "<a href='https://www.coursera.org'>Coursera</a>"
         }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1Dxve_rMWcP7F8da1FznmSK9MWaaLazfj/view?usp=sharing",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "08"
+        },
+        "text": {
+          "headline": "SEB Entrepreneur Camp",
+          "text": "<a href='https://seb.se/foretag/foretagsevent/seb-entrepreneur-camp'>SEB</a>"
+        }
       }
     ]
   },
