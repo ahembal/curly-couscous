@@ -25,7 +25,7 @@ ALL_LAYERS = values.keys()
 selected_layers = [
     layer
     for layer in ALL_LAYERS
-    if st.sidebar.checkbox(layer, False)
+    if st.sidebar.checkbox(layer, True)
 ]
 
 
