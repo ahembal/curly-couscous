@@ -45,3 +45,5 @@ st.markdown(
     """
 )
 
+# sudo kill -9 `sudo lsof -t -i:8081`
+# nohup streamlit run 🙋_Hello.py --server.port 8081 --server.headless=true
