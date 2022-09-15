@@ -368,6 +368,20 @@
           "headline": "SEB Entrepreneur Camp",
           "text": "<a href='https://seb.se/foretag/foretagsevent/seb-entrepreneur-camp'>SEB</a>"
         }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1ShffGP6fyxeEWYA27PU1Mq101BG63n45/view?usp=sharing",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "09"
+        },
+        "text": {
+          "headline": "Google Cloud Big Data and Machine Learning Fundamentals",
+          "text": "<a href='https://www.coursera.org/specializations/gcp-data-machine-learning'>Coursera</a>"
+        }
       }
     ]
   },
