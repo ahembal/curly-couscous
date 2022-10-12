@@ -1,12 +1,18 @@
 embed_linkedin = {
-    'linkedin': """<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-    <html><head></head><body data-new-gr-c-s-loaded="14.1071.0">
+    'linkedin':
+    """
     <link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/bvct6szbjq1lhkmq97l688bk8">
-    <div class="profile-badge profile-badge--width-310 profile-badge--light" dir="ltr">
+    
+    
+    
+    
+    
+    
+
+    <div class="profile-badge profile-badge--width-360 profile-badge--light" dir="ltr">
       <div class="profile-badge__header profile-badge__header--light">
         <span class="sr-only">LinkedIn</span>
-
+        
   <icon class="profile-badge__header-logo-icon profile-badge__header-logo-icon--light" aria-hidden="true">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 84 21" preserveAspectRatio="xMinYMin meet" version="1.1" focusable="false">
     <g class="inbug" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -26,29 +32,27 @@ embed_linkedin = {
 
       </div>
       <div class="profile-badge__content">
-
-      <img class="artdeco-entity-image artdeco-entity-image--circle-4  profile-badge__content-profile-image" src="https://media-exp1.licdn.com/dms/image/C4D03AQEY9IpD3_bKzw/profile-displayphoto-shrink_200_200/0/1658749991492?e=1664409600&amp;v=beta&amp;t=8DHay4Xi7JB8WDSOSLmZByxGSCKobBtdcQYOtpbkqM4" alt="Emre Balsever">
-
+        
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4  profile-badge__content-profile-image" src="https://media-exp1.licdn.com/dms/image/C4D03AQEY9IpD3_bKzw/profile-displayphoto-shrink_200_200/0/1658749991492?e=1671062400&amp;v=beta&amp;t=qWqdojy4pXwBMTQlm6EJHuLEnLKG_WlOTdw3cLnPpdI" alt="Emre Balsever">
+  
         <h3 class="profile-badge__content-profile-name" itemprop="name">
-          <p class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--light" data-tracking-control-name="public-profile-badge-profile-badge-profile-name" data-tracking-will-navigate="">
+          <a class="profile-badge__content-profile-name-link profile-badge__content-profile-name-link--light" href="https://linkedin.com/in/ahembal" target="_blank">
             Emre Balsever
-          </p>
+          </a>
         </h3>
 
           <h4 class="profile-badge__content-profile-headline">
-            Python &amp; Backend Developer | DevOps | Data Engineer | Doctoral Student in Computer Science
+            Python &amp; Backend Developer | DevOps | Data Engineer | Postgraduate Education in Computer Science
           </h4>
 
           <h4 class="profile-badge__content-profile-company-school-info">
-            <p class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">KTH Royal Institute of Technology | Halmstad University </p>
+            <a href="https://www.linkedin.com/company/kth?trk=public-profile-badge-profile-badge_company-name" target="_blank" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_company-name" data-tracking-will-navigate="true">KTH Royal Institute of Technology</a> | <a href="https://www.linkedin.com/school/h%C3%B6gskolan-i-halmstad/?trk=public-profile-badge-profile-badge_school-name" target="_blank" class="profile-badge__content-profile-company-school-info-link profile-badge__content-profile-company-school-info-link--light" data-tracking-control-name="public-profile-badge-profile-badge_school-name" data-tracking-will-navigate="true">Halmstad University</a>
           </h4>
       </div>
       <a class="profile-badge__cta-btn profile-badge__cta-btn--light" href="https://se.linkedin.com/in/ahembal?trk=public-profile-badge-profile-badge-view-profile-cta" target="_blank" data-tracking-control-name="public-profile-badge-profile-badge-view-profile-cta" data-tracking-will-navigate="">
           View profile
       </a>
 <!---->    </div>
-
-  </body></html>
-
+  
     """
 }
