@@ -382,6 +382,20 @@
           "headline": "Google Cloud Big Data and Machine Learning Fundamentals",
           "text": "<a href='https://www.coursera.org/specializations/gcp-data-machine-learning'>Coursera</a>"
         }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1EZjRc2Lvdes3g-7C0tKK2gkejDf3YBmr/view?usp=sharing",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Building Resilient Streaming Analytics Systems on Google Cloud",
+          "text": "<a href='https://www.coursera.org/specializations/gcp-data-machine-learning'>Coursera</a>"
+        }
       }
     ]
   },
