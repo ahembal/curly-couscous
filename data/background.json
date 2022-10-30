@@ -396,6 +396,20 @@
           "headline": "Building Resilient Streaming Analytics Systems on Google Cloud",
           "text": "<a href='https://www.coursera.org/specializations/gcp-data-machine-learning'>Coursera</a>"
         }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/file/d/1-pJtJNxV8xu2Lj4B6X2pjK7AogkON_6k/view?usp=share_link",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2022",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Data Engineering, Big Data, and Machine Learning on GCP",
+          "text": "<a href='https://www.coursera.org/specializations/gcp-data-machine-learning'>Coursera</a>"
+        }
       }
     ]
   },
